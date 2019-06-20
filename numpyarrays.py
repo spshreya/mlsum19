@@ -3,7 +3,7 @@ import numpy as np
 a=np.array([2,5,7,9])                                                                                                                                
 print('a=')                                                                                                                                          
 print(a)                                                                                                                                             
-type(a)                                                                                                                                              
+print(type(a))                                                                                                                                              
                                                                                                                                                      
 #multidimensional array                                                                                                                              
 b= np.array([[2,5,7],[3,4,5]])                                                                                                                       
